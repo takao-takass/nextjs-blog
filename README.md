@@ -8,10 +8,14 @@
     - ✅https://nextjs.org/learn-pages-router/basics/assets-metadata-css/third-party-javascript
     - ✅https://nextjs.org/learn-pages-router/basics/assets-metadata-css/layout-component
     - ✅https://nextjs.org/learn-pages-router/basics/assets-metadata-css/styling-tips
-- ▶Pre-rendering and Data Fetching
+- ✅Pre-rendering and Data Fetching
     - ✅https://nextjs.org/learn-pages-router/basics/data-fetching/two-forms
     - ✅https://nextjs.org/learn-pages-router/basics/data-fetching/with-data
     - ✅https://nextjs.org/learn-pages-router/basics/data-fetching/implement-getstaticprops
-    - ▶https://nextjs.org/learn-pages-router/basics/data-fetching/getstaticprops-details
+    - ✅https://nextjs.org/learn-pages-router/basics/data-fetching/getstaticprops-details
+- ▶Dynamic Routes
+    - ✅https://nextjs.org/learn-pages-router/basics/dynamic-routes/page-path-external-data
+    - ▶https://nextjs.org/learn-pages-router/basics/dynamic-routes/implement-getstaticpaths
+
 # A official Next.js tutorial
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
